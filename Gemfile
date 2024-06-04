@@ -30,6 +30,8 @@ gem "jwt"
 gem 'bcrypt', '~> 3.1.7'
 gem 'cpf_cnpj'
 
+gem 'rack-cors'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
